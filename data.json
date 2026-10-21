@@ -1,0 +1,11 @@
+{
+  "snapshot": "Campus watchlist v1 — fictional prices",
+  "currency": "USD",
+  "prices": {
+    "QQQ": {"name": "Invesco QQQ Trust ETF", "price": "480.00"},
+    "SMH": {"name": "VanEck Semiconductor ETF", "price": "250.00"},
+    "BOTZ": {"name": "Global X Robotics & Artificial Intelligence ETF", "price": "32.00"},
+    "NVDA": {"name": "NVIDIA", "price": "125.00"},
+    "MSFT": {"name": "Microsoft", "price": "420.00"}
+  }
+}
