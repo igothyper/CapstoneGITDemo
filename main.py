@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# Added analytics tracker
 """A tiny tracker for my tech watchlist. Prices are made up, not live quotes."""
 
 import json
